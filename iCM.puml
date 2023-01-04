@@ -1,8 +1,3 @@
-iCM
-
-
-
-
 @startuml
 skinparam maxMessageSize 100
 skinparam packageStyle rectangle
