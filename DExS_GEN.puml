@@ -1,7 +1,6 @@
 @startuml
 skinparam maxMessageSize 100
 skinparam packageStyle rectangle
-title Регулятор
 set namespaceSeparator none
 class DExS {
 .. Назначение ..
@@ -148,5 +147,4 @@ DExS.CRB.FLAT <-- AVS.BIT
 DExS.M4CPU <-- DExS.CPU.RS485
 DExS.M4CPU <-- DExS.CPU.VTEG
 DExS.M4CPU <-- КП256
-
 @enduml
