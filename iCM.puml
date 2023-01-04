@@ -18,7 +18,7 @@ PN:
 } 
 
 class iCM.CPU{
-    PN: ICM.HCK.CPU ps346577
+    PN: ICM.HCK.CPU REV1.1 ps346577
     1С:
 == Интерфейсы ==
 + 4шт RS485 для связи с iCM
@@ -31,7 +31,7 @@ Ethernet паять при необходимости
 } 
 
 class iCM.AIO {
-    PN: icm_hck_opt ps210989
+    PN: ICM.HCK.OPT REV1.0 ps210989
     1С:
 .. Назначение ..
 .. Аналоговые входы/выходы .. 
